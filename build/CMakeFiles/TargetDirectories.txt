@@ -1,6 +1,0 @@
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/thread_pool.dir
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/thread_pool_app.dir
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/thread_pool_test.dir
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/test.dir
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/edit_cache.dir
-/Users/tangentv/Desktop/Git/Portfolio/ThreadPool/build/CMakeFiles/rebuild_cache.dir
