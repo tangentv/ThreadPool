@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/thread_pool_app.dir/src/main.cpp.o -o thread_pool_app  libthread_pool.a
